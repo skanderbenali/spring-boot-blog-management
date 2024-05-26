@@ -70,8 +70,6 @@ For any inquiries or questions, please contact me at dev.skander.benali@gmail.co
 
 Thank you for using the Blog Management Application!
 
-  ```csharp
-  This README file is now complete and provides comprehensive information about your Spring Boot blog management application, its features, installation steps, API   endpoints, and more.
 
 
 
